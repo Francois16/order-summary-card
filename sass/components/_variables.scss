@@ -1,0 +1,16 @@
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+$font-stack: 'Red Hat Display', sans-serif;
+
+// Breakpoints
+$mobile: 375px;
+$desktop: 1440px;
+
+// Colors
+$primary-pale: hsl(225, 100%, 94%);
+$primary-bright: hsl(245, 75%, 52%);
+
+$neutral-pale: hsl(225, 100%, 98%);
+$neutral-desaturated: hsl(224, 23%, 55%);
+$neutral-dark-blue: hsl(223, 47%, 23%);
